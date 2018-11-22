@@ -1,8 +1,8 @@
 body {
-	max-width: 1600px;
-	min-width: 100%;
-    font-family: lato;
-	margin: 0 auto;
+   max-width: 1600px;
+   min-width: 100%;
+   font-family: lato;
+   margin: 0 auto;
 }
 
 .logo {
@@ -106,7 +106,7 @@ h1 {
 }
 
 .call-to:active {
-	background: #033eb3;
+    background: #033eb3;
     transition: all 0.1s ease;
     border: none;
 }
@@ -129,7 +129,7 @@ h1 {
 }
 
 .simple-and h2 {
-	font-size: 40px;
+    font-size: 40px;
     color: rgb(45, 57, 80);
     line-height: 1.2;
     text-align: center;
@@ -142,13 +142,13 @@ h1 {
     line-height: 1.6;
     text-align: center;
     max-width: 1101px;
-	margin: auto;
+    margin: auto;
     width: 68%;
     height: 81px;
 }
 
 .icons-block {
-	background-color: #ffffff;
+    background-color: #ffffff;
     position: absolute;
     top: 1238px;
     width: 100%;
@@ -156,11 +156,11 @@ h1 {
 }
 
 .icons {
-	display: flex;
+    display: flex;
     flex-flow: row wrap;
-	justify-content: center;
-	margin-left: 10%;
-	margin-top: 2%;
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 2%;
 }
 
 .icon1 {
@@ -178,19 +178,19 @@ h1 {
     height: 20px;
     color: #2d3950;
     text-align: center;
-	margin-left: -30%;
+    margin-left: -30%;
 }
 
 .icon1p {
-	width: 255px;
+    width: 255px;
     height: 36px;
     color: #999999;
     font-size: 15px;
     font-weight: 400;
     line-height: 22px;
     letter-spacing: 0.38px;
-	text-align: center;
-	margin-left: -30%;
+    text-align: center;
+    margin-left: -30%;
 }
 
 .icon2 {
@@ -206,19 +206,19 @@ h1 {
     height: 20px;
     color: #2d3950;
     text-align: center;
-	margin-left: -30%;
+    margin-left: -30%;
 }
 
 .icon2p {
-	width: 255px;
+    width: 255px;
     height: 36px;
     color: #999999;
     font-size: 15px;
     font-weight: 400;
     line-height: 22px;
     letter-spacing: 0.38px;
-	text-align: center;
-	margin-left: -30%;
+    text-align: center;
+    margin-left: -30%;
 }
 
 .icon3 {
@@ -234,74 +234,74 @@ h1 {
     height: 20px;
     color: #2d3950;
     text-align: center;
-	margin-left: -30%;
+    margin-left: -30%;
 }
 
 .icon3p {
-	width: 255px;
+    width: 255px;
     height: 36px;
     color: #999999;
     font-size: 15px;
     font-weight: 400;
     line-height: 22px;
     letter-spacing: 0.38px;
-	text-align: center;
-	margin-left: -30%;
+    text-align: center;
+    margin-left: -30%;
 }
 
 .showcase {
-  background-color: rgb(246, 249, 249);
-  position: absolute;
-  left: -3px;
-  top: 1577px;
-  width: 100%;
-  height: 900px;
-  margin-top: 3%;
+    background-color: rgb(246, 249, 249);
+    position: absolute;
+    left: -3px;
+    top: 1577px;
+    width: 100%;
+    height: 900px;
+    margin-top: 3%;
 }
 
 .showcase h2 {
-  font-size: 41px;
-  color: rgb(45, 57, 80);
-  line-height: 1.2;
-  text-align: center;
+    font-size: 41px;
+    color: rgb(45, 57, 80);
+    line-height: 1.2;
+    text-align: center;
 }
 
 .showcase p {
-  font-size: 15px;
-  color: rgb(153, 153, 153);
-  line-height: 1.2;
-  text-align: center;
+    font-size: 15px;
+    color: rgb(153, 153, 153);
+    line-height: 1.2;
+    text-align: center;
 }
 
 .imagies {
-	margin-top: 10%;
+    margin-top: 10%;
     display: flex;
     flex-flow: row wrap;
-	justify-content: center;
+   justify-content: center;
 }
 .img1, .img2, .img3 {
-  width: 375px;
-  height: 281px;
-  margin: -6% 1% 0 1%;
+    width: 375px;
+    height: 281px;
+    margin: -6% 1% 0 1%;
 }
 
 .imagies1 {
     display: flex;
-	top: 5%;
+    top: 5%;
     flex-flow: row wrap;
-	justify-content: center;
+    justify-content: center;
 }
 
 .img4, .img5, .img6 {
-  width: 375px;
-  height: 281px;
-  margin: 1.5% 1% 0 1%;
+    width: 375px;
+    height: 281px;
+    margin: 1.5% 1% 0 1%;
 }
 
 .stay {
-	background-image: url(../img/footer.png);
-	position: relative;
-	top: 2500px;
+    background-image: url(../img/footer.png);
+    position: relative;
+    top: 2500px;
     width: 100%;
     height: 900px;
     background-size: cover;
@@ -309,7 +309,7 @@ h1 {
 }
 
 .stay1 {
-	background-color: rgb(45, 57, 80, 0.9);
+    background-color: rgba(45, 57, 80, 0.9);
     position: absolute;
     width: 100%;
     height: 900px;
