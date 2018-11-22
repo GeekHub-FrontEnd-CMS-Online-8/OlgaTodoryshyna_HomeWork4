@@ -50,8 +50,9 @@ body {
 
 
 h1 {
+    text-transform: uppercase;
     align-items: center;
-	top: 20%;
+    top: 20%;
     font-size: 120px;
     color: #ffffff;
     font-weight: bold;
